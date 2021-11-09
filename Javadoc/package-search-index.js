@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"by.epam.training.solvers"},{"l":"by.epam.training.solvers.exception"},{"l":"by.epam.training.solvers.mathematical"},{"l":"by.epam.training.solvers.validation"}];updateSearchResults();
